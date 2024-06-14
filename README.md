@@ -46,6 +46,8 @@ Les utilisateurs doivent être capables de
 - Flexbox
 - Mobile-first workflow
 
+[![My Skills](https://skillicons.dev/icons?i=js,php,sass)](https://skillicons.dev)
+
 ## Author
 
 - Github - [Dylan Feys](https://github.com/HappyFeys)
